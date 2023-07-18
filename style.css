@@ -1,0 +1,187 @@
+div.carousel-inner{
+  width:500px;
+  height:500px;
+   margin-left: auto;
+  margin-right: auto;
+  
+}
+.bycategory{
+  width: 31.25rem;
+  height: 31.25rem;
+}
+
+.latest{
+  height: 20rem;
+  width: 20rem;
+}
+
+.fa-star{
+  color: gold;
+}
+
+.fa-star-half-alt{
+ color: gold;
+}
+
+*{
+ scroll-behavior: smooth;
+}
+
+.navbar{
+  background-color: #114797;
+}
+
+.nav-link{
+  color: #EEEEEE;
+}
+
+a{
+  color: #EEEEEE;
+}
+
+.footer{
+  background-color: #1d4990;
+}
+
+
+.last{
+  color: #00ADB5;
+}
+
+#body-last{
+  color: #EEEEEE;
+}
+
+.main-page-footer{
+  padding: 5rem;
+}
+
+.main-page-headings{
+  color: purple;
+}
+
+a:hover{
+  color: brown;
+  background-color: white;
+}
+
+.latestproducts{
+  background-color: #F6F5F5;
+}
+
+.productname{
+  color: black;
+}
+
+.image{
+  height: 15rem;
+  width: 15rem;
+}
+
+.image1{
+ height: 35em;
+ width: auto;
+}
+
+.image11{
+  height: 35rem;
+  width: 100%;
+}
+
+.card-img img img-fluid bycategory{
+  height: 35rem;
+}
+.single_product{
+  background-color:white;
+}
+
+.product_detail_body{
+  background-color: antiquewhite;
+}
+
+.image2{
+  height: 15rem;
+  weight: 15rem;
+}
+
+.image3{
+  width: 10rem;
+  height: 10rem;
+}
+
+.cart-background{
+  background-color: #F6F5F5 ;
+}
+
+
+
+.cart-change{
+  color: #00ADB5;
+}
+
+.checkout{
+  background-color: #F6F5F5;
+}
+
+.success{
+  height: 25rem;
+  width: 30rem;
+}
+
+.confirm{
+  background-color: #F6F5F5;
+}
+
+.paragraph{
+  background-color: #F6F5F5;
+}
+
+.nochange:hover{
+  color: black;
+}
+
+.hello{
+  margin: auto;
+  width: 40%;
+}
+
+.image4{
+  height: 100px;
+  width: 100px;
+
+}
+
+.address{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-bottom: 2rem;
+  border: 2px solid #198754;
+  background-color: #393E46;
+  color: white;
+}
+
+.maps{
+  margin-left: auto;
+  display: block;
+  margin-right: auto;
+  border-radius: 10%;
+}
+
+.map{
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.contact_address{
+  margin-bottom: 7rem;
+}
+
+.fa-star-half-o{
+  color: gold;
+}
+
+.error{
+  color: #dc3545;
+}
